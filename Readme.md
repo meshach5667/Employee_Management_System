@@ -217,8 +217,8 @@ public static void main(String[] args) {
   - Contains the list of employees.
 
 ![](images/Screenshot_20240729_211442_VLC.jpg)
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/meshach5667/Employee_Management_System/blob/main/images/Screenshot%20from%202024-07-30%2011-44-49.png)
+![](https://github.com/meshach5667/Employee_Management_System/blob/main/images/Screenshot%20from%202024-07-30%2011-46-06.png)
+![](https://github.com/meshach5667/Employee_Management_System/blob/main/images/Screenshot%20from%202024-07-30%2011-46-25.png)
+![](https://github.com/meshach5667/Employee_Management_System/blob/main/images/Screenshot%20from%202024-07-30%2011-46-42.png)
 
