@@ -1,0 +1,4 @@
+bigBoy,00000000,true,Senior Man
+ia,11111111,false,Isaac Adeyemi
+hmm,00000000,true,a boy
+hamster,00000000,true,Hamster Kombat
